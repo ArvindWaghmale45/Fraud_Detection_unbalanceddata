@@ -1,0 +1,22 @@
+{
+    "model_name": "Random Forest",
+    "threshold": 0.49539234499074425,
+    "accuracy": 0.999403110845827,
+    "precision": 0.826530612244898,
+    "recall": 0.826530612244898,
+    "f1_score": 0.826530612244898,
+    "roc_auc": 0.9833441659584486,
+    "pr_auc": 0.8546568126999035,
+    "confusion_matrix": [
+        [
+            56847,
+            17
+        ],
+        [
+            17,
+            81
+        ]
+    ],
+    "training_records": 227845,
+    "testing_records": 56962
+}
